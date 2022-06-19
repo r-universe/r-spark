@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sparklyr.flint",
+    "oncran": true
+  },
+  {
+    "package": "sparkwarc",
+    "oncran": true
+  }
+]
